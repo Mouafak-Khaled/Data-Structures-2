@@ -1,6 +1,0 @@
-Berkay Buy 27
-IlkerKadir Sell 40
-Mert Sell 66
-Ekin Sell 90
-Asli Remove Sell 98
-TuanBerk Sell 10
